@@ -1,0 +1,2 @@
+# njRAT
+Compilation of editions
